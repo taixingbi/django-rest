@@ -24,6 +24,12 @@
     python manage.py startapp languages
     python manage.py makemigrations
     python manage.py migrate
+    
+    
+#### reference
+[1] [Getting Started With Django REST Framework](https://www.youtube.com/watch?v=263xt_4mBNc)      
+[2] [How to write an API in 3 lines of code with Django REST framework](https://medium.com/crowdbotics/how-to-write-an-api-in-3-lines-of-code-with-django-rest-framework-59b0971edfa4)    
+
 
 
 
