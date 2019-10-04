@@ -4,7 +4,7 @@ from .models import Language
 class LanguageSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Language
-        fields = ('id', 'url', 'name', 'paradigm')
+        fields = ('name', 'paradigm')
 
 
         
